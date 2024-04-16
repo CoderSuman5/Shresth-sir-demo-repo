@@ -1,3 +1,3 @@
 const userName = "Suman biswas"
 const city = "delhi"
-consd
+const country = "america"
